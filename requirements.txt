@@ -1,0 +1,14 @@
+streamlit==1.33.0
+streamlit-camera-input-live==0.2.0
+streamlit-card==1.0.0
+streamlit-embedcode==0.1.2
+streamlit-extras==0.4.2
+streamlit-faker==0.0.3
+streamlit-image-coordinates==0.1.6
+streamlit-keyup==0.2.4
+streamlit-shadcn-ui==0.1.18
+streamlit-toggle-switch==1.0.2
+streamlit-vertical-slider==2.5.5
+requests~=2.31.0
+python-dotenv~=1.0.1
+matplotlib~=3.7.2
